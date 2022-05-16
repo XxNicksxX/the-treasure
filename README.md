@@ -1,1 +1,2 @@
-# the-treasure
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
